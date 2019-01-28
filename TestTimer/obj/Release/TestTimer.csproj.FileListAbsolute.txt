@@ -1,0 +1,17 @@
+E:\TestTimer\TestTimer\bin\Release\TestTimer.exe.config
+E:\TestTimer\TestTimer\bin\Release\TestTimer.exe
+E:\TestTimer\TestTimer\bin\Release\TestTimer.pdb
+E:\TestTimer\TestTimer\obj\Release\TestTimer.Form1.resources
+E:\TestTimer\TestTimer\obj\Release\TestTimer.Properties.Resources.resources
+E:\TestTimer\TestTimer\obj\Release\TestTimer.csproj.GenerateResource.Cache
+E:\TestTimer\TestTimer\obj\Release\TestTimer.exe
+E:\TestTimer\TestTimer\obj\Release\TestTimer.pdb
+C:\Users\AAA\Desktop\TestTimer\TestTimer\bin\Release\TestTimer.exe.config
+C:\Users\AAA\Desktop\TestTimer\TestTimer\obj\Release\TestTimer.exe
+C:\Users\AAA\Desktop\TestTimer\TestTimer\obj\Release\TestTimer.pdb
+C:\Users\AAA\Desktop\TestTimer\TestTimer\bin\Release\TestTimer.exe
+C:\Users\AAA\Desktop\TestTimer\TestTimer\bin\Release\TestTimer.pdb
+C:\Users\AAA\Desktop\TestTimer\TestTimer\obj\Release\TestTimer.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Desktop\TestTimer\TestTimer\obj\Release\TestTimer.Form1.resources
+C:\Users\AAA\Desktop\TestTimer\TestTimer\obj\Release\TestTimer.Properties.Resources.resources
+C:\Users\AAA\Desktop\TestTimer\TestTimer\obj\Release\TestTimer.csproj.GenerateResource.Cache

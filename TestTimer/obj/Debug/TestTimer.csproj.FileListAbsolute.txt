@@ -1,0 +1,9 @@
+E:\TestTimer\TestTimer\bin\Debug\TestTimer.exe.config
+E:\TestTimer\TestTimer\obj\Debug\TestTimer.csprojResolveAssemblyReference.cache
+E:\TestTimer\TestTimer\obj\Debug\TestTimer.Properties.Resources.resources
+E:\TestTimer\TestTimer\obj\Debug\TestTimer.csproj.GenerateResource.Cache
+E:\TestTimer\TestTimer\bin\Debug\TestTimer.exe
+E:\TestTimer\TestTimer\bin\Debug\TestTimer.pdb
+E:\TestTimer\TestTimer\obj\Debug\TestTimer.exe
+E:\TestTimer\TestTimer\obj\Debug\TestTimer.pdb
+E:\TestTimer\TestTimer\obj\Debug\TestTimer.Form1.resources
